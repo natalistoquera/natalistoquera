@@ -1,4 +1,20 @@
-## Hi there 👋
+# Olá, eu sou a Natali 👋
+
+🎯 Estou me aperfeiçoando na área de Dados  
+📊 Foco em análise de dados, business intelligence, performance e planejamento estratégico de negócios
+🧠 Experiência com área financeira, comercial, análise de KPIs, criação de dashboards e insights em BI
+
+## 🚀 Tecnologias
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL
+- Excel / Power BI
+
+## 📂 Projetos em destaque
+- Análise de Dados - Dataset Titanic
+
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/seu-link
+- Email: seuemail@email.com
 
 <!--
 **natalistoquera/natalistoquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
