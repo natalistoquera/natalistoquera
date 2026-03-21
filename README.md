@@ -1,4 +1,4 @@
-# Olá, eu sou a Natali 👋
+# Olá, eu sou a Natali 👩🏻‍💻
 
 🎯 Estou me aperfeiçoando na área de Dados
 
