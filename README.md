@@ -1,7 +1,9 @@
 # Olá, eu sou a Natali 👋
 
-🎯 Estou me aperfeiçoando na área de Dados  
-📊 Foco em análise de dados, business intelligence, performance e planejamento estratégico de negócios
+🎯 Estou me aperfeiçoando na área de Dados
+
+📊 Foco em análise de dados, business intelligence, performance e planejamento estratégico de negócios   
+
 🧠 Experiência com área financeira, comercial, análise de KPIs, criação de dashboards e insights em BI
 
 ## 🚀 Tecnologias
