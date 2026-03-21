@@ -15,8 +15,8 @@
 - Análise de Dados - Dataset Titanic
 
 ## 📫 Contato
-- LinkedIn: https://linkedin.com/in/seu-link
-- Email: seuemail@email.com
+- LinkedIn: https://www.linkedin.com/in/natali-stoquera/
+- Email: natalistoquera@gmail.com
 
 <!--
 **natalistoquera/natalistoquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
