@@ -7,7 +7,7 @@
 🧠 Experiência com área financeira, comercial, análise de KPIs, criação de dashboards e insights em BI
 
 ## 🚀 Tecnologias
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL
 - Excel / Power BI
 
