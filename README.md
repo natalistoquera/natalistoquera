@@ -11,9 +11,6 @@
 - SQL
 - Excel / Power BI
 
-## 📂 Projetos em destaque
-- Análise de Dados - Dataset Titanic
-
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/natali-stoquera/
 - Email: natalistoquera@gmail.com
