@@ -2,7 +2,7 @@
 
 **Análise de Dados | Business Intelligence | Python | SQL | Power BI | ETL | Data Visualization**
 
-Profissional com experiência multidisciplinar em **gestão financeira e comercial, BPO financeiro, auditoria interna, melhoria contínua e processos administrativos e jurídicos**.
+Profissional com experiência multidisciplinar em **gestão financeira e comercial, BPO financeiro, cultura lean, auditoria interna, melhoria contínua e processos administrativos e jurídicos**.
 
 Em constante aperfeiçoamento em **Análise de Dados e Business Intelligence**, busco integrar minha visão de negócios e processos às competências em tecnologia, transformando dados em insights para apoiar decisões estratégicas, otimizar operações e impulsionar resultados.
 
