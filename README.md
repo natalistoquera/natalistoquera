@@ -36,13 +36,13 @@ Em constante aperfeiçoamento em **Análise de Dados e Business Intelligence**, 
 
 Análise exploratória de **123 anúncios de layoffs em 25 big techs**, investigando **menções à IA**, **desempenho acionário** em comparação ao ETF QQQ no mesmo período e **indicadores operacionais** das empresas após os cortes.
 
-📊 [Dashboard interativo](https://ia-layoffs-natali.streamlit.app/)  
-📂 [Repositório do projeto](https://github.com/natalistoquera/projeto-ia-layoffs)
+📊 [Dashboard interativo](https://ia-layoffs-natali.streamlit.app/): ia-layoffs-natali.streamlit.app  
+📂 [Repositório do projeto](https://github.com/natalistoquera/projeto-ia-layoffs): github.com/natalistoquera/projeto-ia-layoffs
 
 ## 📫 Contato
 
-💼 [LinkedIn](https://www.linkedin.com/in/natali-stoquera/)  
-📧 [E-mail](mailto:natalistoquera@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/natali-stoquera/): linkedin.com/in/natali-stoquera 
+📧 [E-mail](mailto:natalistoquera@gmail.com): natalistoquera@gmail.com
 
 ---
 
