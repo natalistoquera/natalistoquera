@@ -38,3 +38,12 @@ Análise exploratória de **123 anúncios de layoffs em 25 big techs**, investig
 
 📊 [Dashboard interativo](https://ia-layoffs-natali.streamlit.app/)  
 📂 [Repositório do projeto](https://github.com/natalistoquera/projeto-ia-layoffs)
+
+## 📫 Contato
+
+💼 [LinkedIn](https://www.linkedin.com/in/natali-stoquera/)  
+📧 [E-mail](mailto:natalistoquera@gmail.com)
+
+---
+
+*Transformando dados em informações para decisões mais inteligentes.*
