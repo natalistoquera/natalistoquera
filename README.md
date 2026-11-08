@@ -1,3 +1,5 @@
+🌐 **Idioma:** Português | [English](README.en.md)
+
 # Olá, eu sou a Natali! 👩🏻‍💻
 
 **Análise de Dados | Business Intelligence | Python | SQL | Power BI | ETL | Data Visualization**
